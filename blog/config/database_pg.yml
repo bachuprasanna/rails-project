@@ -1,0 +1,9 @@
+development:  
+  adapter:  postgresql
+  encoding: unicode
+  database: blog_development
+  pool: 5
+  timeout: 5000
+  host: 192.168.116.98
+  username: postgres
+  password: mdoffice2002
